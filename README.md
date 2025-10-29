@@ -14,12 +14,3 @@ Además, se genera un reporte en formato HTML con los resultados de las pruebas 
 - Pytest-HTML  
 - Webdriver-Manager  
 
----
-
-## Instalación de dependencias
-
-### 1. Crear y activar el entorno virtual
-**En Windows (cmd):**
-```bash
-python -m venv .venv
-.venv\Scripts\activate
